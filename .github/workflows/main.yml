@@ -12,4 +12,4 @@ jobs:
       name: Checkout code
      
     - name: Build
-      run: "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin\MSBuild.exe" consoleapp1/consoleapp1.csproj /p:Configuration=release
+      run: "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/MSBuild.exe" consoleapp1/consoleapp1.csproj /p:Configuration=release
